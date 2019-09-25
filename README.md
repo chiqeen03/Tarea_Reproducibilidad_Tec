@@ -1,7 +1,7 @@
 # Tarea Reproducibilidad
 
 ## Tarea
-- Realizar un fork del repositorio: https://github.com/said3427/Reproducibilidad_Tec a un repo local por equipo.
+- Realizar un fork del repositorio: https://github.com/said3427/Tarea_Reproducibilidad_Tec a un repo local por equipo.
 
 - Comentar el archivo Code.R (Recuerda que para comentar código en R se usa `#`).
 
@@ -15,7 +15,7 @@
 
 En la siguiente liga pueden verificar que todo funcione (deben cambiar el nombre de usuario de github `said3427` por el suyo)
 
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/said3427/Reproducibilidad_Tec/master?urlpath=rstudio)
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/said3427/Tarea_Reproducibilidad_Tec/master?urlpath=rstudio)
 
 ## Dudas
 
