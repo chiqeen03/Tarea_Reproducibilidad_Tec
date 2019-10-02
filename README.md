@@ -1,23 +1,15 @@
-# Tarea Reproducibilidad
+#Descripción
 
-## Tarea
-- Realizar un fork del repositorio: https://github.com/said3427/Tarea_Reproducibilidad_Tec a un repo local por equipo.
+El código sirve para filtrar los datos de una base de datos que incluye la expectativa de vida por año de una gran cantidad de países.
 
-- Comentar el archivo Code.R (Recuerda que para comentar código en R se usa `#`).
+Primero se están graficando solamente los datos de Canadá. Se modifica posteriormente una variable específica y se actualizan
+los datos y la gráfica. 
 
-- Agregar el o los paquetes faltantes para la reproducibilidad del código en el archivo install.R
+Después se grafica toda el área de Norte América.
 
-- Quitar las intrucciones de la tarea en el archivo README.md, agregar una breve descripción del código y gráficos que se generan.
+##Integrantes
 
-- Realizar un pull request o mandar un mail con su repo a saidmunozmontero@tec.mx
-
-## Rstudio
-
-En la siguiente liga pueden verificar que todo funcione (deben cambiar el nombre de usuario de github `said3427` por el suyo)
-
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/said3427/Tarea_Reproducibilidad_Tec/master?urlpath=rstudio)
-
-## Dudas
-
-- saidmunozmontero@tec.mx
-- said3427@gmail.com
+- Manuel Avalos Tovar A01336176
+- Dafne Lecona Cisneros A01334365
+- Luis Eduardo Brime Gómez A01334886
+- Abraham Armando Silva Apanco A01651490
