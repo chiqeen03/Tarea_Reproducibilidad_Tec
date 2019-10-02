@@ -1,4 +1,4 @@
-#Descripción
+# Descripción
 
 El código sirve para filtrar los datos de una base de datos que incluye la expectativa de vida por año de una gran cantidad de países.
 
@@ -7,7 +7,7 @@ los datos y la gráfica.
 
 Después se grafica toda el área de Norte América.
 
-##Integrantes
+## Integrantes
 
 - Manuel Avalos Tovar A01336176
 - Dafne Lecona Cisneros A01334365
